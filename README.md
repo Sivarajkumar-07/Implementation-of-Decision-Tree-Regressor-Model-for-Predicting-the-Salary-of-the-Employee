@@ -15,7 +15,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 5. Predict salary, calculate MSE, and display the tree.
 
 ## Program:
-```
+```python
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: Ravivarman VV
